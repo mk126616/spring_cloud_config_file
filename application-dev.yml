@@ -2,4 +2,4 @@ server:
   port: 8080
 custom:
   key: tets_key
-  version: 1
+  version: 2
