@@ -1,4 +1,4 @@
 server:
   port: 8080
 custom:
-  key: tets_key2
+  key: tets_key
